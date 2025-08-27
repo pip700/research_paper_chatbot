@@ -35,7 +35,7 @@ You can also pull other models like `mistral` or `codellama`.
 **2. Clone the Repository**
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/pip700/research_paper_chatbot.git
 cd research-paper-chatbot
 ```
 
